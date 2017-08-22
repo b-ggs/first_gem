@@ -1,5 +1,6 @@
+require 'thor'
+require "first_gem/cli"
 require "first_gem/version"
 
 module FirstGem
-  # Your code goes here...
 end
